@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\AS\\OneKeyLockScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android\\AS\\OneKeyLockScreen\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\AS\\OneKeyLockScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "E:\\Android\\AS\\OneKeyLockScreen\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]
